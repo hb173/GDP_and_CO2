@@ -4,5 +4,6 @@ data = pd.read_csv('https://media.githubusercontent.com/media/nickeubank/MIDS_Da
 data_new = data[['Mortality rate, infant (per 1,000 live births)','GDP per capita (constant 2010 US$)','Country Name']]
 plt.scatter(data_new['Mortality rate, infant (per 1,000 live births)'], data_new['GDP per capita (constant 2010 US$)'])
 plt.show()
-## good Job
+## good job
+##Thankyou Jie
 
